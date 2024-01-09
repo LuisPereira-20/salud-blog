@@ -1,0 +1,17 @@
+header {
+  display: flex;
+}
+
+.header {
+  display: grid;
+}
+
+.nombre {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+.redes_s {
+  display: flex;
+}/*# sourceMappingURL=header.css.map */
